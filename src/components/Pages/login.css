@@ -1,0 +1,39 @@
+.vvv
+{
+    text-align: center;
+    margin-top: 20%;
+    background-color: rgba(14, 14, 14, 0);
+    width: 20%;
+    height: 1000px;
+    margin-left: 38%;
+    margin-top:10%;
+    border-style: solid;
+
+}
+.jjj
+{
+    text-align: center;
+    margin-top: 65%;
+   
+}
+.bnnn
+{
+    text-align: center;
+
+}
+img{
+    width: 40%;
+    height: 150px;
+    margin-right: 25%;
+}
+img
+{
+    margin-top: 35%;
+}
+input
+{
+    border-style: solid;
+    margin-top: 10%;
+    background-color: rgb(24, 12, 12);
+    width: 100%;
+}
